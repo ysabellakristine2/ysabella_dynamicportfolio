@@ -6,4 +6,6 @@ EASTER EGGS LOCATION
 - guest/index.php
 - login.php
 - register.php
+- guest/navbar.php
+- admin/navbar.php
   
